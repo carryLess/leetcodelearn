@@ -34,4 +34,6 @@
     * **标题** [1300. 转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/)
 * 2020-06-15
     * **标题** [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
-   
+* 2020-06-16
+    * **标题** [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+    
