@@ -36,4 +36,9 @@
     * **标题** [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 * 2020-06-16
     * **标题** [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
-    
+* 2020-06-17
+    * **标题** [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
+    * _extra_
+        * [面试题42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) 知识点动态规划
+        * [面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+        * [面试题13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
