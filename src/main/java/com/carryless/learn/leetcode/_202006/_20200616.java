@@ -1,5 +1,7 @@
 package com.carryless.learn.leetcode._202006;
 
+import com.carryless.learn.leetcode.common.TreeNode;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -143,14 +145,4 @@ public class _20200616 {
 		return new TreeNode(Integer.valueOf(val));
 	}
 
-}
-
-class TreeNode {
-	int val;
-	TreeNode left;
-	TreeNode right;
-
-	TreeNode(int x) {
-		val = x;
-	}
 }
