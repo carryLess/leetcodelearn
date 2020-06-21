@@ -46,3 +46,10 @@
     * **标题** [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
 * 2020-06-19
     * **标题** [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+    * _extra_  
+        * [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
+        * [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+        * [56. 合并区间](https://leetcode-cn.剑指 Offer 58 - I. 翻转单词顺序com/problems/merge-intervals/)
+* 2020-06-20
+    * **标题** [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof)
+    
