@@ -56,4 +56,8 @@
     * **标题** [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
 * 2021-12-23
     * **标题** [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+* 2021-12-26
+    * **标题** [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* 2021-12-27
+    * **标题** [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
     
