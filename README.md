@@ -60,4 +60,11 @@
     * **标题** [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 * 2021-12-27
     * **标题** [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+* 2021-12-28
+    * **标题** [移除元素](https://leetcode-cn.com/problems/remove-element)
+    * _extra_ 
+        * [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+* 2022-01-04
+    * **标题** [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
+    * **知识点** 动态规划
     
