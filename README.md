@@ -67,4 +67,8 @@
 * 2022-01-04
     * **标题** [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
     * **知识点** 动态规划
+* 2022-01-05
+    * **标题** [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
+* 2022-01-06
+    * **标题** [加一](https://leetcode-cn.com/problems/plus-one/)
     
