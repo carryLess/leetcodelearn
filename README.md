@@ -71,4 +71,8 @@
     * **标题** [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
 * 2022-01-06
     * **标题** [加一](https://leetcode-cn.com/problems/plus-one/)
+* 2022-01-07
+    * **标题** [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
+* 2022-01-09
+    * **标题** [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
     
