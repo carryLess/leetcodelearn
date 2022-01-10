@@ -75,4 +75,5 @@
     * **标题** [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 * 2022-01-09
     * **标题** [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
-    
+* 2022-01-10
+    * **标题** [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
