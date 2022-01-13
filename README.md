@@ -81,3 +81,7 @@
     * **标题** [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 * 2022-01-12
     * **标题** [相同的树](https://leetcode-cn.com/problems/same-tree/)
+* 2022-01-13
+  * **标题** [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+  * _extra_
+    * [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
