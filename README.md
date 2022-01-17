@@ -85,3 +85,7 @@
   * **标题** [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
   * _extra_
     * [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* 2022-01-14
+  * **标题** [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+* 2022-01-15
+  * **标题** [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
