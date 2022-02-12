@@ -89,3 +89,7 @@
   * **标题** [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 * 2022-01-15
   * **标题** [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+* 2022-01-16
+  * **标题** [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* 2022-01-17
+  * **标题** [路径总和](https://leetcode-cn.com/problems/path-sum/)
